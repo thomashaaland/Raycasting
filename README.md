@@ -1,1 +1,2 @@
-# raycasting
+# Raycasting
+Python project demoing raycasting. 
